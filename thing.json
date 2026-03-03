@@ -20,6 +20,16 @@
                     621135
                 ]
             }
+        },
+        "hosted": {
+            "4d67f36c-1f10-4e31-b0da-a9f03e126f01": {
+                "name": "GGGGGGGGGGGGG",
+                "artist": "ASDASD",
+                "startOffset": 0,
+                "url": "https://files.catbox.moe/z777bj.mp3",
+                "songs": [621135]
+            }
         }
     }
+
 }
